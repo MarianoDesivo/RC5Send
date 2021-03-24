@@ -4,7 +4,7 @@
 
 void setup() {
   Rc5.Begin(); //Sets up Timer1 registers and interruption
-  Serial.begin(9600); //Initialize Serial Monitor, just to print you code
+  Serial.begin(9600); //Initialize Serial Monitor, just to print your code
   
 }
 
