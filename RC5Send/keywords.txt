@@ -1,0 +1,2 @@
+Rc5   KEYWORD1
+Send  KEYWORD2
